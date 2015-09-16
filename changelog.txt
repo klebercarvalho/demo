@@ -1,0 +1,41 @@
+2013-09-26  Kleber Carvalho  <kleber.carvalho@gmail.com>
+
+
+    * Code
+    * wp-content/themes/loogle_11_07/functions.php
+    * function remove_wp_logo()
+    * function remove_footer_admin()
+    * function hide_help()
+    * function remove_screen_options_tab()
+    * function remove_collapse_menu() 
+    
+    * Code
+    * wp-content/themes/loogle_11_07/footer.php
+    * Desenvolvido pela ... 
+    
+    * Code
+    * /wp-content/themes/loogle_11_07/single.php
+    * <div class="share">
+    
+    * Plugin
+    * Absolute Privacy
+    * Adminimize
+    * Bootstrap Admin
+    * Customize Admin
+    	* Plugins - Selecting this option removes the plugins dashboard widget.
+    	* WordPress Site News - Selecting this option removes the WordPress Site News dashboard widget.
+    	* WordPress Other News - Selecting this option removes the Other WordPress News dashboard widget.
+    * Disable WordPress Core Updates
+    * User Submitted Posts
+    * Print Friendly and PDF (inactive)
+    
+    * Theme
+    * Loogle 
+    	* https://github.com/lineshjose/Loogle-11.07
+    	* https://github.com/lineshjose/Loogle
+    
+    * Language
+	* /wp-content/languages/admin-pt_BR.po
+	* row 6476
+    
+    
